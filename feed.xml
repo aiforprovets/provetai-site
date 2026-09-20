@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ProVetAI</title>
+    <link href="https://provetai.com/feed.xml" rel="self" />
+    <link href="https://provetai.com" />
+    <updated>2026-09-20T02:56:02+03:00</updated>
+    <author>
+        <name>Dr. Amr El Serougy</name>
+    </author>
+    <id>https://provetai.com</id>
+
+    <entry>
+        <title>About me </title>
+        <author>
+            <name>Dr. Amr El Serougy</name>
+        </author>
+        <link href="https://provetai.com/about-me/"/>
+        <id>https://provetai.com/about-me/</id>
+            <category term="My Blog"/>
+            <category term="Digital tools for veterinarians"/>
+
+        <updated>2026-09-05T07:54:45+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Dr, Amr El Serougy Veterinary AI &amp; Data Specialist | Livestock &amp; Poultry Practice I bridge the gap between veterinary medicine and data-driven management for&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
+</feed>

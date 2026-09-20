@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ProVetAI",
+    "description": "",
+    "home_page_url": "https://provetai.com",
+    "feed_url": "https://provetai.com/feed.json",
+    "user_comment": "",
+    "icon": "https://provetai.com/media/website/final-logo.png",
+    "author": {
+        "name": "Dr. Amr El Serougy"
+    },
+    "items": [
+        {
+            "id": "https://provetai.com/about-me/",
+            "url": "https://provetai.com/about-me/",
+            "title": "About me ",
+            "summary": "Dr, Amr El Serougy Veterinary AI &amp; Data Specialist | Livestock &amp; Poultry Practice I bridge the gap between veterinary medicine and data-driven management for&hellip;",
+            "author": {
+                "name": "Dr. Amr El Serougy"
+            },
+            "tags": [
+                   "My Blog",
+                   "Digital tools for veterinarians"
+            ],
+            "date_published": "2026-09-05T07:54:45+03:00",
+            "date_modified": "2026-09-20T02:56:02+03:00"
+        }
+    ]
+}
