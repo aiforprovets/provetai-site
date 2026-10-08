@@ -3,12 +3,33 @@
     <title>ProVetAI</title>
     <link href="https://provetai.com/feed.xml" rel="self" />
     <link href="https://provetai.com" />
-    <updated>2026-09-24T20:31:29+03:00</updated>
+    <updated>2026-10-08T19:10:17+03:00</updated>
     <author>
         <name>Dr. Amr El Serougy</name>
     </author>
     <id>https://provetai.com</id>
 
+    <entry>
+        <title>Welcome to ProVet AI.</title>
+        <author>
+            <name>Dr. Amr El Serougy</name>
+        </author>
+        <link href="https://provetai.com/welcome-to-provet-ai/"/>
+        <id>https://provetai.com/welcome-to-provet-ai/</id>
+        <media:content url="https://provetai.com/media/posts/2/welcome-to-provet-ai-featured-image.png" medium="image" />
+            <category term="My Blog"/>
+            <category term="Digital tools for veterinarians"/>
+            <category term="AI for Veterinarians"/>
+
+        <updated>2026-10-08T19:10:17+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://provetai.com/media/posts/2/welcome-to-provet-ai-featured-image.png" alt="ProVet AI featured image showing AI applications for poultry and livestock production" />
+                    My name is Amr El Serougy, and I am a veterinarian with a strong passion for artificial intelligence and technology in poultry and livestock production.
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>About me </title>
         <author>

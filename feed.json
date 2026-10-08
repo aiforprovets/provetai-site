@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://provetai.com/welcome-to-provet-ai/",
+            "url": "https://provetai.com/welcome-to-provet-ai/",
+            "title": "Welcome to ProVet AI.",
+            "summary": "My name is Amr El Serougy, and I am a veterinarian with a strong passion for artificial intelligence and technology in poultry and livestock production.",
+            "image": "https://provetai.com/media/posts/2/welcome-to-provet-ai-featured-image.png",
+            "author": {
+                "name": "Dr. Amr El Serougy"
+            },
+            "tags": [
+                   "My Blog",
+                   "Digital tools for veterinarians",
+                   "AI for Veterinarians"
+            ],
+            "date_published": "2026-10-08T19:10:17+03:00",
+            "date_modified": "2026-10-08T19:10:17+03:00"
+        },
+        {
             "id": "https://provetai.com/about-me/",
             "url": "https://provetai.com/about-me/",
             "title": "About me ",
